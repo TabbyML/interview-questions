@@ -12,3 +12,7 @@ A: Nope. One can only prepare for couple weeks, but we are evaluating candidate'
 _Q: I have new ideas, suggestions._
 
 A: Opening new issue, creating PR. We will respond in a timely fashion. Thanks in advance.
+
+# Acknowledgements
+
+This repo is heavily inspired by https://github.com/bytebase/interview
