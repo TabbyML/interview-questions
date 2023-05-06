@@ -26,4 +26,5 @@ We don't require any additional features. If you have more time, we recommend yo
 
 # Deliverables
 
-Instruction on how to download the code and run locally.
+1. Instruction on how to download the code and run locally.
+2. wand link to a 100-steps training history.
