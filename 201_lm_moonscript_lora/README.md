@@ -4,7 +4,7 @@ Build a lora language model for [moonscript](https://moonscript.org).
 
 # Instructions
 
-You'll need to build an language model with moonscript with following sources:
+You'll need to build an language model with moonscript using following sources:
 1. [pythia-70m](https://huggingface.co/EleutherAI/pythia-70m)
 2. `moonscript` slice in [The Stack](https://huggingface.co/datasets/bigcode/the-stack)
 3. [PEFT](https://github.com/huggingface/peft)
