@@ -8,7 +8,7 @@ You'll need to build an distilled language model using following sources:
 1. [SantaCoder](https://huggingface.co/bigcode/santacoder) as teacher model.
 2. [flan-t5-small](https://huggingface.co/google/flan-t5-small) as student model.
 3. `moonscript` slice in [The Stack](https://huggingface.co/datasets/bigcode/the-stack) as dataset for distillation.
-4. [Weights and Bias](http://wand.ai)
+4. [Weights and Bias](http://wandb.ai)
 
 We do **NOT** require you to build a fully converged model. You only need to provide an wand training history of 100 steps.
 
