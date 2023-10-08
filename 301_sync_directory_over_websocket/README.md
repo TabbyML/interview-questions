@@ -21,9 +21,7 @@ Once the sender command is completed, the receiver process should exit automatic
    b. If a file doesn't exist in the sender's directory but does exist in the receiver's directory, the file should be removed.
 2. Directory syncing should be performed recursively.
 
-# Good to Have
-
-### Additional Features
+# Additional Features
 
 We do not require any additional features. If you have extra time, we recommend focusing on polishing the minimum requirements. However, if you can't resist the temptation, feel free to go ahead and surprise us.
 
