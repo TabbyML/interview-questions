@@ -14,10 +14,8 @@ Create a [Dagster](https://dagster.io/) pipeline to conduct an evaluation of [Cr
 
    Note: Running samples for 200 data points will suffice for this assignment.
 
-5. Visualize the results using a Jupyter notebook.
+5. Visualize the results using a Jupyter notebook (and make the visualization part of dagster pipeline)
 
 ## Deliverables
 
 1. Provide instructions for downloading the code and running it locally.
-
-2. Share a link to the training history with 100 steps.
