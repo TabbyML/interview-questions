@@ -5,7 +5,7 @@ This project is to collect the performance of language model on HumanEval and di
 # Instructions
 
 This project contains 2 parts, one is to collect the HumanEval result, one is to display the result. We recommend you to first mock the result and finish the UI part.
-If time permits, you can use [HumanEval](http://github.com/openai/human_eval) to obtain the real benchmark for a model listed in [LLM Models](https://github.com/wsxiaoys/awesome-ai-coding#llm-models).
+If time permits, you can use [HumanEval](https://github.com/openai/human-eval) to obtain the real benchmark for a model listed in [LLM Models](https://github.com/wsxiaoys/awesome-ai-coding#llm-models).
 
 # Minimum Requirements
 
